@@ -8,7 +8,7 @@ A paixão pela área me motivou a buscar novos horizontes. Decidi ingressar em u
 
 ## A Jornada na Computação
 
-Atualmente, estou buscando expandir meus conhecimentos e habilidades no campo da computação. Um passo importante nessa jornada foi me candidatar para a **LOGIN**, a empresa júnior de Computação da **Universidade Federal Fluminense (UFF)**. Essa oportunidade é extremamente relevante para mim, pois me permitirá explorar ferramentas e tecnologias que ainda não tive a chance de estudar formalmente.
+Atualmente, estou buscando expandir meus conhecimentos e habilidades no campo da computação. Um passo importante nessa jornada foi me candidatar para a **IN**, a empresa júnior de Computação da **Universidade Federal Fluminense (UFF)**. Essa oportunidade é extremamente relevante para mim, pois me permitirá explorar ferramentas e tecnologias que ainda não tive a chance de estudar formalmente.
 
 Estou comprometido a dar o meu melhor, aprendendo, colaborando e contribuindo para a equipe da melhor forma possível. Espero que, caso seja do interesse da LOGIN, eu possa fazer parte desse projeto e crescer junto com a empresa.
 
